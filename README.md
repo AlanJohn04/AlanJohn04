@@ -178,7 +178,7 @@ Soulbound Tokens
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=AlanJohn04E&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -186,7 +186,7 @@ Soulbound Tokens
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlanJohn04&theme=tokyo-night"/>
 </p>
 
 ---
@@ -215,19 +215,6 @@ Soulbound Tokens
 
 ---
 
-# 🎯 2026 Goals
-
-- Contribute to Open Source
-
-- Build Production SaaS Products
-
-- Master Kubernetes
-
-- Publish AI Research Projects
-
-- Secure Software Engineering Role
-
----
 
 # 📫 Connect With Me
 
@@ -235,9 +222,9 @@ Soulbound Tokens
 
 📧 alan2004john@gmail.com
 
-💼 LinkedIn
+💼 
 
-💻 GitHub
+💻 
 
 </p>
 
